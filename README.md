@@ -16,18 +16,18 @@ This project is a **React + TypeScript + TailwindCSS** implementation of a PopX-
 - **Vite** as build tool
 
 ## 🖼️ UI Screenshots
-Here are some preview images of the UI (embedded from the `assets` folder in repo for GitHub visibility):
+Here are some preview images of the UI:
 
 ### Welcome Screen
-![Welcome Screen](https://raw.githubusercontent.com/Agasya27/Educase-UI/main/screenshots/welcome.png)
+<img src="screenshots/welcome.png" alt="Welcome Screen" width="400"/>
 
 ### Create Account
-![Create Account](https://raw.githubusercontent.com/Agasya27/Educase-UI/main/screenshots/create-account.png)
+<img src="screenshots/create-account.png" alt="Create Account" width="400"/>
 
 ### Account Settings
-![Account Settings](https://raw.githubusercontent.com/Agasya27/Educase-UI/main/screenshots/account-settings.png)
+<img src="screenshots/account-settings.png" alt="Account Settings" width="400"/>
 
-*(Make sure you commit and push your screenshots into a `screenshots/` folder in the repository root so GitHub can load them.)*
+➡️ Make sure you have a folder called `screenshots` in the project root and commit your PNG images there with the exact filenames above.
 
 ## 🛠️ Installation
 Clone this repository:
@@ -52,5 +52,5 @@ Open your browser at [http://localhost:5173](http://localhost:5173).
 ## 📱 Mobile Optimization
 The UI uses responsive widths (`w-full max-w-sm sm:max-w-md`) and responsive font sizes so it adapts well on smaller screens.
 
-
-
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
