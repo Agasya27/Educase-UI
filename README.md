@@ -16,18 +16,18 @@ This project is a **React + TypeScript + TailwindCSS** implementation of a PopX-
 - **Vite** as build tool
 
 ## 🖼️ UI Screenshots
-Here are some preview images of the UI:
+Here are some preview images of the UI (embedded with actual filenames from repo root):
 
 ### Welcome Screen
-<img src="screenshots/welcome.png" alt="Welcome Screen" width="400"/>
+![Welcome Screen](./Screenshot%202025-08-20%20160607.png)
 
 ### Create Account
-<img src="screenshots/create-account.png" alt="Create Account" width="400"/>
+![Create Account](./Screenshot%202025-08-20%20160627.png)
 
 ### Account Settings
-<img src="screenshots/account-settings.png" alt="Account Settings" width="400"/>
+![Account Settings](./Screenshot%202025-08-20%20160646.png)
 
-➡️ Make sure you have a folder called `screenshots` in the project root and commit your PNG images there with the exact filenames above.
+➡️ These filenames exactly match the PNGs committed in your repo root, so they will display on GitHub.
 
 ## 🛠️ Installation
 Clone this repository:
