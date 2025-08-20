@@ -52,5 +52,3 @@ Open your browser at [http://localhost:5173](http://localhost:5173).
 ## 📱 Mobile Optimization
 The UI uses responsive widths (`w-full max-w-sm sm:max-w-md`) and responsive font sizes so it adapts well on smaller screens.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
